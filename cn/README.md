@@ -1,3 +1,5 @@
+[In English](https://yenomdev.kjuly.com/Contributions/)
+
 ## 关于参与 YeNom 的贡献
 
 如果你业余有时间，可以参与 YeNom 已经开源的部分组件开发与维护。或者帮助翻译、整理文档，以及测试反馈应用存在的问题等。

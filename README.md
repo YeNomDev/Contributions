@@ -1,3 +1,5 @@
+[中文](/cn)
+
 ## About Contributions to YeNom
 
 If you have some spare time, you're welcome to get involved in the development of those open sourced YeNom components. Or help with missing documentation or translation, diagnose and report problems.

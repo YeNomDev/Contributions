@@ -1,4 +1,4 @@
-[中文](/Contributions/cn)
+[简体中文](/Contributions/zh_Hans)
 
 ## About Contributions to YeNom
 

@@ -1,4 +1,4 @@
-[中文](/cn)
+[中文](/Contributions/cn)
 
 ## About Contributions to YeNom
 

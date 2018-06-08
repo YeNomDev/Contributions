@@ -12,7 +12,10 @@ Contributions are very much appreciated and needed in any of the following ways:
 - Help diagnose and report problems;
 - Suggest fixes by sending in patches;
 - Help with missing documentation;
+
 etc.
+
+**Repos are Hosted on [https://github.com/YeNomDev](https://github.com/YeNomDev).**
 
 ## Components
 

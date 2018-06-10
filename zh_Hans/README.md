@@ -23,7 +23,7 @@ _待加入。如果你有兴趣提供帮助，请联系我。_
 
 ## 翻译与国际化
 
-- [VersionHistory-iOS](https://github.com/YeNomDev/VersionHistory-iOS): YeNom iOS 版本歷史。
+- [VersionHistory-iOS](https://github.com/YeNomDev/VersionHistory-iOS): YeNom iOS 版本历史。
 
 _待加入更多。如果你有兴趣提供帮助，请联系我。_
 

@@ -23,7 +23,9 @@ _待加入。如果你有兴趣提供帮助，请联系我。_
 
 ## 翻译与国际化
 
-_待加入。如果你有兴趣提供帮助，请联系我。_
+- [VersionHistory-iOS](https://github.com/YeNomDev/VersionHistory-iOS): YeNom iOS 版本歷史。
+
+_待加入更多。如果你有兴趣提供帮助，请联系我。_
 
 ## 第三方库、服务和工具
 
